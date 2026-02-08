@@ -1,0 +1,19 @@
+﻿# Virtual environment
+fastapienv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Database
+*.db
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
